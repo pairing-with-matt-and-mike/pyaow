@@ -2,4 +2,4 @@
 
 ## Rock
 
-![rock](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/rock.ppm "rock")
+![rock](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/rock.png "rock")
