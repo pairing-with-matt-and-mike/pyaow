@@ -1,4 +1,4 @@
-PPMS = rock.ppm clock.ppm
+PPMS = rock.ppm clock.ppm sphere.ppm
 PNGS := $(addsuffix .png,$(basename $(PPMS)))
 
 %.png: %.ppm
