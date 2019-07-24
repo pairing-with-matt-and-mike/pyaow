@@ -2,12 +2,16 @@
 
 ## Rock
 
-![rock](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/rock.png "rock")
+![Rock](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/rock.png "Rock")
 
 ## Clock
 
-![clock](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/clock.png "clock")
+![Clock](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/clock.png "Clock")
 
 ## Spheres
 
-![spheres](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/sphere.png "spheres")
+![Spheres](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/sphere.png "Spheres")
+
+## 3D Spheres
+
+![3D Spheres](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/3dSphere.png "3D Spheres")
