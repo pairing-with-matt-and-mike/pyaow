@@ -15,3 +15,7 @@
 ## 3D Spheres
 
 ![3D Spheres](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/3dSphere.png "3D Spheres")
+
+## 6 Spheres
+
+![6 Balls](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/balls.png "6 Balls")
