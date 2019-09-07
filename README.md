@@ -19,3 +19,11 @@
 ## 6 Spheres
 
 ![6 Balls](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/balls.png "6 Balls")
+
+## Acne Spheres
+
+![Acne Balls](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/acne_balls.png "Acne Balls")
+
+## Shadow Spheres
+
+![Shadow Balls](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/shadow_balls.png "Shadow Balls")
