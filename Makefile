@@ -1,4 +1,4 @@
-PPMS = balls.ppm rock.ppm clock.ppm sphere.ppm 3dSphere.ppm
+PPMS = balls-n-walls.ppm balls.ppm rock.ppm clock.ppm index.ppm sphere.ppm 3dSphere.ppm
 PNGS := $(addsuffix .png,$(basename $(PPMS)))
 
 %.png: %.ppm
@@ -11,4 +11,4 @@ PNGS := $(addsuffix .png,$(basename $(PPMS)))
 	jp2a $^ > $@
 
 serve: $(PNGS)
-	python3 -m http.server
+	python3.7 -m http.server

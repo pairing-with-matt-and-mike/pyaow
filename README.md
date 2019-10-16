@@ -27,3 +27,7 @@
 ## Shadow Spheres
 
 ![Shadow Balls](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/shadow_balls.png "Shadow Balls")
+
+## Spheres and a Plane
+
+![Balls to the Wall](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/balls-n-walls.png "Balls to the Wall")
