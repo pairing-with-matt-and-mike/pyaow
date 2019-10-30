@@ -31,3 +31,7 @@
 ## Spheres and a Plane
 
 ![Balls to the Wall](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/balls-n-walls.png "Balls to the Wall")
+
+## Spheres and Patterns
+
+![Balls and Patterns](https://raw.githubusercontent.com/pairing-with-matt-and-mike/pyaow/master/balls-n-patterns.png "Balls and Patterns")

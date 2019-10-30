@@ -11,5 +11,8 @@
   "dependencies": {
     "jest": "^24.8.0",
     "lodash": "^4.17.13"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
   }
 }

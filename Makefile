@@ -1,4 +1,4 @@
-PPMS = balls-n-walls.ppm balls.ppm rock.ppm clock.ppm index.ppm sphere.ppm 3dSphere.ppm
+PPMS = $(wildcard *.ppm)
 PNGS := $(addsuffix .png,$(basename $(PPMS)))
 
 %.png: %.ppm
@@ -11,4 +11,4 @@ PNGS := $(addsuffix .png,$(basename $(PPMS)))
 	jp2a $^ > $@
 
 serve: $(PNGS)
-	python3.7 -m http.server
+	npx live-server --host=0.0.0.0 --port=8000 --ignorePattern=node_modules
