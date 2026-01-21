@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^29.3.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "live-server": "^1.2.1"
